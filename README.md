@@ -1,4 +1,13 @@
-### Hi there 👋
+### \`Hello, ${name}\`
+
+I'm Kaynã, a 20-something software engineer.
+
+🔭 Currently working on [Fetchly labs](https://fetch.ly/) mostly, with React and TS/JS.
+
+#### Reach me! 📫
+- [Email](mailto:kayna30p@gmail.com)
+- [LinkedIn](https://www.linkedin.com/in/kayn%C3%A3-camargo-8259071a1/)
+
 
 <!--
 **kayzzu/kayzzu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
