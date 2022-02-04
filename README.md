@@ -2,7 +2,7 @@
 
 I'm Kaynã, a 20-something software engineer.
 
-🔭 Currently working on [Fetchly labs](https://fetch.ly/) mostly, with React and TS/JS.
+🔭 Currently working on [Fetchly labs](https://fetch.ly/), mostly with React and TS/JS.
 
 #### Reach me! 📫
 - [Email](mailto:kayna30p@gmail.com)
