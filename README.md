@@ -1,6 +1,6 @@
 ### \`Hello, ${name}\`
 
-🔭 Currently working on [Fetchly labs](https://fetch.ly/), mostly with React & Rails.
+🔭 Currently working on [Fetchly labs](https://fetch.ly/).
 
 #### Reach me! 📫
 - [Email](mailto:kayna.khad@gmail.com)
